@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sports-game-odds",
   "title": "Sports Game Odds",
   "description": "Sports Game Odds MCP — wraps the Sports Game Odds API (sportsgameodds.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sports-game-odds",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sports-game-odds",
