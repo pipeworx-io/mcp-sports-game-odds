@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sports-game-odds",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sports Game Odds MCP — wraps the Sports Game Odds API (sportsgameodds.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-aa39f2de18a583180ba95b4e92a15080e681cca433dd065f0e73b5cdb2ea82e7",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-1478e7118b462a3a89628b9b9de9e45b681a14178129230aefe8d2484152c070",
+    "sourceCommit": "d4a9636716f113458bd312e487c065f76548df8c"
   }
 }
